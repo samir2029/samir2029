@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/samir2029">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Cybersecurity+Professional;Java+%26+C+Programming+Learner;Exploring+Secure+Software+Development&center=true&width=600&height=45&color=9CA3FF&vCenter=true&size=20" alt="Introduction">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Cybersecurity+Professional;C+Programming+%26+JAVA+Learner;Exploring+Secure+Software+Development&center=true&width=600&height=45&color=9CA3FF&vCenter=true&size=20" alt="Introduction">
   </a>
 </p>
 
