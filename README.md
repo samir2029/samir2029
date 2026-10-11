@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/samir2029">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Cybersecurity+Professional;C+Programming+%26+JAVA+Learner;Exploring+Secure+Software+Development&center=true&width=600&height=45&color=9CA3FF&vCenter=true&size=20" alt="Introduction">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Cyber security+Professional;C+Programming+%26+JAVA+Learner;Exploring+Secure+Software+Development&center=true&width=600&height=45&color=9CA3FF&vCenter=true&size=20" alt="Introduction">
   </a>
 </p>
 
@@ -26,7 +26,7 @@ I'm an aspiring developer interested in cybersecurity, programming, and secure s
 
 - 🔐 Learning cybersecurity and ethical security testing
 - ☕ Developing programming skills with Java
-- 💻 Studying C and computer fundamentals
+- 💻 Studying JAVA and computer fundamentals
 - 🐍 Exploring Python for automation and scripting
 - 🐧 Learning Linux and networking fundamentals
 - 🛡️ Interested in secure coding and defensive security
