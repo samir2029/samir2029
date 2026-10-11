@@ -1,71 +1,86 @@
-&#x20;\<h1 align="center">🛡️ Hi 👋, I'm Samir\</h1> \<h3 align="center">🔐 Aspiring Cybersecurity Enthusiast | JAVA | C Programming\</h3>
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:003300,100:00FF41&height=200&section=header&text=SAMIR&fontSize=65&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20%7C%20JAVA%20%7C%20C%20PROGRAMMING&descAlignY=58&descSize=16" width="100%" alt="Samir Cybersecurity Banner">
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Cybersecurity+Space;Learning+Ethical+Hacking;Exploring+Cyber+Defense;Securing+the+Digital+World&center=true&width=550&height=45&color=00FF41&vCenter=true&size=22](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Cybersecurity+Space;Learning+Ethical+Hacking;Exploring+Cyber+Defense;Securing+the+Digital+World\&center=true\&width=550\&height=45\&color=00FF41\&vCenter=true\&size=22)" alt="Typing SVG">
-\</p>
+<h3 align="center">🛡️ Aspiring Cybersecurity Enthusiast</h3>
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Cybersecurity-Learning-00FF41?style=for-the-badge&logo=security&logoColor=black](https://img.shields.io/badge/Cybersecurity-Learning-00FF41?style=for-the-badge\&logo=security\&logoColor=black)">
-&#x20; \<img src="[https://img.shields.io/badge/Ethical%20Hacking-Beginner-00FF41?style=for-the-badge&logo=kalilinux&logoColor=white](https://img.shields.io/badge/Ethical%20Hacking-Beginner-00FF41?style=for-the-badge\&logo=kalilinux\&logoColor=white)">
-\</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Learning+Ethical+Hacking;Exploring+Cyber+Defense;Building+Secure+Software;Learn.+Build.+Secure.+Repeat.&center=true&width=500&height=45&color=00FF41&vCenter=true&size=20" alt="Cybersecurity Typing Animation">
+</p>
 
----
-
-### 👨‍💻 About Me
-
-- 🔐 Passionate about cybersecurity and ethical hacking
-- 🐍 Learning Python for security automation
-- 💻 Exploring C programming and computer fundamentals
-- 🛡️ Interested in vulnerability analysis and cyber defense
-- 🔍 Learning secure coding and malware analysis fundamentals
-- 🚀 Building projects to improve my technical skills
-- ⚖️ Committed to ethical and authorized security testing
-
-### 🛠️ Languages & Tools
-
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)" alt="Python">
-&#x20; \<img src="[https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)" alt="C">
-&#x20; \<img src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)" alt="Linux">
-&#x20; \<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)" alt="Git">
-&#x20; \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub">
-\</p>
-
-### 🔒 Cybersecurity Interests
-
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/Ethical%20Hacking-00FF41?style=flat-square&logo=kalilinux&logoColor=black](https://img.shields.io/badge/Ethical%20Hacking-00FF41?style=flat-square\&logo=kalilinux\&logoColor=black)">
-&#x20; \<img src="[https://img.shields.io/badge/Network%20Security-00FF41?style=flat-square&logo=wireshark&logoColor=black](https://img.shields.io/badge/Network%20Security-00FF41?style=flat-square\&logo=wireshark\&logoColor=black)">
-&#x20; \<img src="[https://img.shields.io/badge/Secure%20Coding-00FF41?style=flat-square&logo=opensourceinitiative&logoColor=black](https://img.shields.io/badge/Secure%20Coding-00FF41?style=flat-square\&logo=opensourceinitiative\&logoColor=black)">
-&#x20; \<img src="[https://img.shields.io/badge/Linux%20Fundamentals-00FF41?style=flat-square&logo=linux&logoColor=black](https://img.shields.io/badge/Linux%20Fundamentals-00FF41?style=flat-square\&logo=linux\&logoColor=black)">
-\</p>
-
-### 📊 GitHub Statistics
-
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=samir2029&show_icons=true&theme=chartreuse-dark&hide_border=true](https://github-readme-stats.vercel.app/api?username=samir2029\&show_icons=true\&theme=chartreuse-dark\&hide_border=true)" height="165" alt="GitHub Stats">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=samir2029&layout=compact&theme=chartreuse-dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=samir2029\&layout=compact\&theme=chartreuse-dark\&hide_border=true)" height="165" alt="Top Languages">
-\</p>
-
-### 🔥 Contribution Streak
-
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=samir2029&theme=chartreuse-dark&hide_border=true](https://streak-stats.demolab.com?user=samir2029\&theme=chartreuse-dark\&hide_border=true)" alt="GitHub Contribution Streak">
-\</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/CYBERSECURITY-LEARNER-00FF41?style=for-the-badge&labelColor=000000" alt="Cybersecurity Learner">
+  <img src="https://img.shields.io/badge/ETHICAL_HACKING-BEGINNER-00FF41?style=for-the-badge&labelColor=000000" alt="Ethical Hacking Beginner">
+</p>
 
 ---
 
-### 🎯 My Mission
+## 👨‍💻 About Me
 
-> Learn. Build. Secure. Repeat.
-> Developing skills to help make the digital world safer.
+```text
+Name       : Samir
+Focus      : Cybersecurity
+Languages  : Java, C, Python
+Interests  : Ethical Hacking & Secure Coding
+Goal       : Build a safer digital world
+```
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Think%20Secure-Act%20Ethically-00FF41?style=for-the-badge&logo=hackthebox&logoColor=white](https://img.shields.io/badge/Think%20Secure-Act%20Ethically-00FF41?style=for-the-badge\&logo=hackthebox\&logoColor=white)">
-\</p>
+- 🔐 Learning cybersecurity and ethical hacking
+- ☕ Exploring Java and object-oriented programming
+- 💻 Practicing C programming and computer fundamentals
+- 🐍 Exploring Python for security automation
+- 🐧 Learning Linux and networking fundamentals
+- 🛡️ Interested in vulnerability analysis and defensive security
+- ⚖️ Committed to authorized and ethical security testing
 
-\<p align="center">
-&#x20; 💚 Thanks for visiting my profile! &#x20;
-&#x20; \<br>
-&#x20; ⭐ Explore my repositories and follow my cybersecurity journey.
-\</p>
+## ⚡ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,python,linux,git,github,vscode" alt="Java, C, Python, Linux, Git, GitHub and VS Code">
+</p>
+
+## 🔒 Cybersecurity Interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethical_Hacking-00FF41?style=flat-square&labelColor=000000" alt="Ethical Hacking">
+  <img src="https://img.shields.io/badge/Network_Security-00FF41?style=flat-square&labelColor=000000" alt="Network Security">
+  <img src="https://img.shields.io/badge/Secure_Coding-00FF41?style=flat-square&labelColor=000000" alt="Secure Coding">
+  <img src="https://img.shields.io/badge/Linux-00FF41?style=flat-square&labelColor=000000" alt="Linux">
+</p>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samir2029&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" height="165" alt="GitHub Statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir2029&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000" height="165" alt="Most Used Languages">
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samir2029&theme=chartreuse-dark&hide_border=true&background=000000" alt="GitHub Contribution Streak">
+</p>
+
+---
+
+## 🎯 My Mission
+
+<p align="center">
+  <b>LEARN. BUILD. SECURE. REPEAT.</b>
+  <br>
+  Making the digital world safer, one project at a time.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/THINK%20SECURE-ACT%20ETHICALLY-00FF41?style=for-the-badge&labelColor=000000" alt="Think Secure Act Ethically">
+</p>
+
+<p align="center">
+  💚 Thanks for visiting my profile!
+  <br>
+  ⭐ Explore my repositories and follow my journey.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=100&section=footer" width="100%" alt="Green Footer Banner">
+</p>
