@@ -1,7 +1,7 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:252447&height=170&section=header&text=Samir%20Karn&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20%7C%20Java%20%7C%20C%20Programming&descSize=17&descAlignY=65" width="100%" alt="Samir Karn - Developer Profile">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:052E16,100:14532D&height=170&section=header&text=Samir%20Karn&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20%7C%20Java%20%7C%20C%20Programming&descSize=17&descAlignY=65" width="100%" alt="Samir Karn - Developer Profile">
 </p>
+
 
 <p align="center">
   <a href="https://github.com/samir2029">
